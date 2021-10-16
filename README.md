@@ -7,4 +7,4 @@ To run the simulator:
 2. Run the coin_GUI_main.py
 3. Follow on-screen widget instructions
 
-![](images/coin1.jpg)
+![](images/coin1.JPG)
